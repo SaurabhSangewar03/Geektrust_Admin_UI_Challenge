@@ -2,7 +2,7 @@
 - A Simple Admin UI using React Js And Geektrust API.
 
 # Demo-Link
-`<link>` : [Geektrust_Admin_UI]()
+`<link>` : [Geektrust_Admin_UI](https://admin-ui-03.netlify.app/)
 
 # The Problem Statement of that challenge :
 
